@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Deezer</string>
+
+    <string name="implicitas">Implícitas</string>
+    <string name="explicitas">Explícitas</string>
+
+    <string name="btPesquisa">Pesquisa</string>
+    <string name="btEmail">E-mail</string>
+
+    <string name="Buscar">Buscar</string>
+    <string name="Enviar">Enviar</string>
+
+    <string name="pesqPesquisa">Pesquisa</string>
+
+    <string name="emlAddress">Endereço</string>
+    <string name="emlSubject">Título</string>
+    <string name="emlText">Corpo</string>
+</resources>
